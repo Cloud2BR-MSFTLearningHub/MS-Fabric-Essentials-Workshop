@@ -23,7 +23,7 @@ jobs:
           fetch-depth: 0
 
       - name: Shallow clone visitor counter logic
-        run: git clone --depth=1 https://github.com/brown9804/github-visitor-counter.git
+        run: git clone --depth=1 https://github.com/Cloud2BR-MSFTLearningHub/github-visitor-counter.git
 
       - name: Set up Node.js
         uses: actions/setup-node@v4

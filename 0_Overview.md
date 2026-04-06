@@ -3,7 +3,7 @@
 Costa Rica
 
 [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
-[brown9804](https://github.com/brown9804)
+[Cloud2BR OSS - Learning Hub](https://github.com/Cloud2BR-MSFTLearningHub)
 
 Last updated: 2025-10-15
 
@@ -58,7 +58,7 @@ From [Microsoft Documentation](https://learn.microsoft.com/pt-br/fabric/fundamen
 | `Synapse Data Science`   | Provides tools for building, training, and deploying ML models, integrating with the Synapse ecosystem. | Machine learning, data science workflows, model deployment.              | Enhances collaboration, scalability, and actionable insights through integrated workflows. |
 | `Microsoft Purview`      | A unified platform for data governance, security, and compliance.           | Data governance, data security, compliance management.                   | Provides comprehensive data protection, reduces risk, and ensures regulatory compliance |
 
-Click here for more information about: [Microsoft Fabric Quick Overview](https://github.com/MicrosoftCloudEssentials-LearningHub/Demos-ScenariosHub/blob/main/0_Azure/2_AzureAnalytics/0_Fabric/demos/17_Overview.md#fabric-overview)
+Click here for more information about: [Microsoft Fabric Quick Overview](https://github.com/Cloud2BR-MSFTLearningHub/DemosScenarios-TechTalks/blob/main/0_Azure/2_AzureAnalytics/0_Fabric/demos/17_Overview.md#fabric-overview)
 
 ## OneLake in Fabric
 
@@ -77,30 +77,30 @@ Click here for more information about: [Microsoft Fabric Quick Overview](https:/
 | `Performance Optimization` | Advanced Features | Utilizes advanced caching and indexing techniques to enhance data retrieval speeds. | Ensures fast and efficient data access, improving overall system performance. |
 | `Security Features`       | Advanced Features | Includes encryption at rest and in transit, role-based access control, and audit logging. | Protects sensitive data, ensures authorized access, and maintains detailed activity logs. |
 
-Click here for more information about: [OneLake in Microsoft Fabric](https://github.com/MicrosoftCloudEssentials-LearningHub/Demos-ScenariosHub/blob/main/0_Azure/2_AzureAnalytics/0_Fabric/demos/17_Overview.md#onelake-in-microsoft-fabric)
+Click here for more information about: [OneLake in Microsoft Fabric](https://github.com/Cloud2BR-MSFTLearningHub/DemosScenarios-TechTalks/blob/main/0_Azure/2_AzureAnalytics/0_Fabric/demos/17_Overview.md#onelake-in-microsoft-fabric)
 
 ### Lakehouse & Data Warehouse
 
 > `Lakehouse` is a type of data architecture within Microsoft Fabric that combines data lakes and data warehouses. It stores and processes `both structured and unstructured data`, offering flexibility and performance. 
 > `Data Warehouse` is a centralized repository for large volumes of `structured data`, optimized for high-performance SQL-based analytics.
 
- Click here for more information about: [Lakehouse & Data Warehouse](https://github.com/MicrosoftCloudEssentials-LearningHub/Demos-ScenariosHub/blob/main/0_Azure/2_AzureAnalytics/0_Fabric/demos/17_Overview.md#lakehouse--data-warehouse)
+ Click here for more information about: [Lakehouse & Data Warehouse](https://github.com/Cloud2BR-MSFTLearningHub/DemosScenarios-TechTalks/blob/main/0_Azure/2_AzureAnalytics/0_Fabric/demos/17_Overview.md#lakehouse--data-warehouse)
 
 ## Parquet & Delta Data Formats
 
- Click here for more information about: [Parquet & Delta Data Formats](https://github.com/MicrosoftCloudEssentials-LearningHub/Demos-ScenariosHub/blob/main/0_Azure/2_AzureAnalytics/0_Fabric/demos/17_Overview.md#parquet--delta-data-formats)
+ Click here for more information about: [Parquet & Delta Data Formats](https://github.com/Cloud2BR-MSFTLearningHub/DemosScenarios-TechTalks/blob/main/0_Azure/2_AzureAnalytics/0_Fabric/demos/17_Overview.md#parquet--delta-data-formats)
 
  ## Z-Order & V-Order
 
-Click here for more information about: [Z-Order & V-Order](https://github.com/MicrosoftCloudEssentials-LearningHub/Demos-ScenariosHub/blob/main/0_Azure/2_AzureAnalytics/0_Fabric/demos/17_Overview.md#z-order-and-v-order)
+Click here for more information about: [Z-Order & V-Order](https://github.com/Cloud2BR-MSFTLearningHub/DemosScenarios-TechTalks/blob/main/0_Azure/2_AzureAnalytics/0_Fabric/demos/17_Overview.md#z-order-and-v-order)
 
 ## Dataflow Gen2 & Data Pipelines
 
- Click here for more information about: [Dataflow Gen2 & Data Pipelines](https://github.com/MicrosoftCloudEssentials-LearningHub/Demos-ScenariosHub/blob/main/0_Azure/2_AzureAnalytics/0_Fabric/demos/17_Overview.md#dataflow-gen2--data-pipelines)
+ Click here for more information about: [Dataflow Gen2 & Data Pipelines](https://github.com/Cloud2BR-MSFTLearningHub/DemosScenarios-TechTalks/blob/main/0_Azure/2_AzureAnalytics/0_Fabric/demos/17_Overview.md#dataflow-gen2--data-pipelines)
 
 ## Shortcuts & Mirroring
 
- Click here for more information about: [Shortcuts & Mirroring](https://github.com/MicrosoftCloudEssentials-LearningHub/Demos-ScenariosHub/blob/main/0_Azure/2_AzureAnalytics/0_Fabric/demos/17_Overview.md#shortcuts--mirroring)
+ Click here for more information about: [Shortcuts & Mirroring](https://github.com/Cloud2BR-MSFTLearningHub/DemosScenarios-TechTalks/blob/main/0_Azure/2_AzureAnalytics/0_Fabric/demos/17_Overview.md#shortcuts--mirroring)
  
 <!-- START BADGE -->
 <div align="center">
