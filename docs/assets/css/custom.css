@@ -1,0 +1,55 @@
+:root {
+  --md-primary-fg-color: #0f6cbd;
+  --md-accent-fg-color: #0078d4;
+}
+
+.md-typeset img,
+.md-typeset video {
+  display: block;
+  height: auto;
+  margin: 1.25rem auto;
+  max-width: 100%;
+}
+
+.md-typeset .mermaid svg {
+  height: auto;
+  max-width: 100%;
+}
+
+.guide-grid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  margin: 1.5rem 0;
+}
+
+.guide-card {
+  border: 1px solid var(--md-default-fg-color--lighter);
+  border-radius: 6px;
+  color: inherit;
+  display: block;
+  padding: 1rem;
+  text-decoration: none;
+}
+
+.guide-card:hover {
+  border-color: var(--md-primary-fg-color);
+  box-shadow: 0 2px 8px rgb(15 108 189 / 16%);
+}
+
+.guide-card strong {
+  color: var(--md-primary-fg-color);
+  display: block;
+  margin-bottom: .35rem;
+}
+
+.md-typeset table:not([class]) {
+  display: table;
+  overflow-x: auto;
+}
+
+@media screen and (max-width: 44.9375em) {
+  .md-typeset table:not([class]) {
+    display: block;
+  }
+}

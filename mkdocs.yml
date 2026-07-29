@@ -1,0 +1,76 @@
+site_name: Microsoft Fabric Essentials Workshop
+site_description: Guided hands-on workshop for Microsoft Fabric foundations, engineering, AI, and delivery.
+site_url: https://cloud2br-msftlearninghub.github.io/MS-Fabric-Essentials-Workshop/
+repo_url: https://github.com/Cloud2BR-MSFTLearningHub/MS-Fabric-Essentials-Workshop
+repo_name: Cloud2BR-MSFTLearningHub/MS-Fabric-Essentials-Workshop
+edit_uri: edit/main/docs/
+docs_dir: docs
+site_dir: site
+use_directory_urls: true
+
+theme:
+  name: material
+  language: en
+  logo: assets/images/fabric-mark.svg
+  favicon: assets/images/fabric-mark.svg
+  palette:
+    - scheme: default
+      primary: blue
+      accent: cyan
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - content.code.copy
+    - content.action.edit
+    - search.suggest
+    - search.highlight
+
+nav:
+  - Home: index.md
+  - Fabric foundations: fabric-foundations.md
+  - Provision the workshop: provision-the-workshop.md
+  - Medallion architecture: medallion-architecture.md
+  - AI and LLMs: ai-and-llms.md
+  - AI skills: ai-skills.md
+  - Delivery and operations: delivery-and-operations.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_div_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+extra:
+  generator: false
+
+extra_css:
+  - assets/css/custom.css
+
+extra_javascript:
+  - path: assets/js/logo-link.js
+    type: module
+  - path: assets/js/external-links.js
+    type: module
+  - path: assets/js/mermaid.js
+    type: module
+
+copyright: Copyright &copy; 2026 Cloud2BR OSS - Learning Hub
