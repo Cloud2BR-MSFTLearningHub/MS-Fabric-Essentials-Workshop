@@ -33,6 +33,13 @@ terraform apply -var-file terraform.tfvars
 !!! danger
     The supplied templates can use an F64 capacity. Review the selected SKU and cost implications, pause capacity when it is not needed, and remove the resource group after finishing the workshop.
 
+## Provisioning walkthrough
+
+<video controls preload="metadata">
+  <source src="https://github.com/user-attachments/assets/1ab31707-6f4c-4ec7-9e92-5d5cc96ac5bb" type="video/mp4">
+  Your browser does not support embedded video. Watch the <a href="https://github.com/user-attachments/assets/1ab31707-6f4c-4ec7-9e92-5d5cc96ac5bb">Terraform provisioning walkthrough</a>.
+</video>
+
 ## Resources and troubleshooting
 
 - Read the complete [Terraform deployment guide](https://github.com/Cloud2BR-MSFTLearningHub/MS-Fabric-Essentials-Workshop/blob/main/Terraform/README.md).
