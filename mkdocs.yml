@@ -10,22 +10,18 @@ use_directory_urls: true
 
 theme:
   name: material
-  language: en
   logo: assets/images/fabric-mark.svg
   favicon: assets/images/fabric-mark.svg
-  palette:
-    - scheme: default
-      primary: blue
-      accent: cyan
   features:
-    - navigation.tabs
     - navigation.sections
+    - navigation.expand
     - navigation.top
-    - navigation.footer
-    - content.code.copy
-    - content.action.edit
-    - search.suggest
     - search.highlight
+    - content.code.copy
+  palette:
+    scheme: default
+    primary: blue
+    accent: blue
 
 nav:
   - Home: index.md
@@ -61,6 +57,10 @@ markdown_extensions:
 
 extra:
   generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Cloud2BR-MSFTLearningHub
+      name: Cloud2BR OSS - Learning Hub
 
 extra_css:
   - assets/css/custom.css
@@ -74,4 +74,4 @@ extra_javascript:
   - path: assets/js/mermaid.js
     type: module
 
-copyright: Copyright &copy; 2026 Cloud2BR OSS - Learning Hub
+copyright: Copyright &copy; 2026 <a href="https://github.com/Cloud2BR-MSFTLearningHub" target="_blank" rel="noopener">Cloud2BR OSS - Learning Hub</a>
