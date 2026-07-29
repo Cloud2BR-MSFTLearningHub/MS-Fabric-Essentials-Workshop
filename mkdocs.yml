@@ -10,8 +10,8 @@ use_directory_urls: true
 
 theme:
   name: material
-  logo: assets/images/fabric-mark.svg
-  favicon: assets/images/fabric-mark.svg
+  logo: https://avatars.githubusercontent.com/u/195347873?v=4
+  favicon: https://avatars.githubusercontent.com/u/195347873?v=4
   features:
     - navigation.sections
     - navigation.expand
