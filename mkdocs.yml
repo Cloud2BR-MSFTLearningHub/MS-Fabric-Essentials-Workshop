@@ -64,6 +64,7 @@ extra:
 
 extra_css:
   - assets/css/custom.css
+  - assets/css/fabric-palette-20260729.css
 
 extra_javascript:
   - path: assets/js/logo-link.js
